@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<widget xmlns = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "org.sixtysixfcu.kuApp"
+        version   = "1.0.2"
+	versionCode = "27">
+
+  <name>KUCU</name>
+
+  <description>
+    KU Credit Union's free mobile banking app for members who want to manage their finances on the go.
+  </description>
+
+  <feature name="http://api.phonegap.com/1.0/device" />
+  <preference name="permissions" value="none"/>
+</widget>
